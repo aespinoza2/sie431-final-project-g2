@@ -1,0 +1,23 @@
+[RESOURCES]
+Haircoloring Stylist
+Hair Extension Stylist
+Check In Time
+Womens Hair Stylist
+Hairwashing Stylist
+Mens Hair Stylist
+[VARIABLES]
+Hair Washing Process.NumberIn
+Mens Haircut Process.NumberOut
+Transfer Time
+Hair Extension Process.NumberOut
+Hair Extension Process.NumberIn
+Arrival of Client.NumberOut
+Hair Washing Process.NumberOut
+Womens Haircut Process.NumberOut
+Womens Haircut Process.NumberIn
+Check In Process Time.NumberIn
+Check In Process Time.NumberOut
+Mens Haircut Process.NumberIn
+Hair Coloring Process.NumberOut
+Hair Coloring Process.NumberIn
+Client Exits Salon.NumberOut

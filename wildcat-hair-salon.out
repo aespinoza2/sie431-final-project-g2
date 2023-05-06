@@ -1,0 +1,125 @@
+
+                                      ARENA Simulation Results
+                           espinozaagustin42@gmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 5/ 5/2023
+Analyst: espinozaagustin42@gmail.com                                 Model revision date: 5/ 5/2023
+
+Replication ended at time      : 510.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Hair Coloring Service Time                  259.66     (Insuf)    28.615     507.03         50    
+Mens Haircut Service Time                   201.43     (Insuf)    17.008     507.03         50    
+Hair Extension Service Time                 236.80     (Insuf)    24.525     455.51         50    
+Womens Haircut Service Time                 206.26     (Insuf)    19.702     507.03         50    
+Mens Haircut Client.VATime                  16.653     (Insuf)    13.104     20.428         16    
+Mens Haircut Client.NVATime                 .00000     (Insuf)    .00000     .00000         16    
+Mens Haircut Client.WaitTime                6.0799     (Insuf)    .00000     25.376         16    
+Mens Haircut Client.TranTime                4.0000     (Insuf)    4.0000     4.0000         16    
+Mens Haircut Client.OtherTime               .00000     (Insuf)    .00000     .00000         16    
+Mens Haircut Client.TotalTime               26.733     (Insuf)    17.814     47.167         16    
+Hair Coloring Client.VATime                 32.191     (Insuf)    26.288     37.671          7    
+Hair Coloring Client.NVATime                .00000     (Insuf)    .00000     .00000          7    
+Hair Coloring Client.WaitTime               2.3855     (Insuf)    .00000     16.698          7    
+Hair Coloring Client.TranTime               6.0000     (Insuf)    6.0000     6.0000          7    
+Hair Coloring Client.OtherTime              .00000     (Insuf)    .00000     .00000          7    
+Hair Coloring Client.TotalTime              40.576     (Insuf)    32.288     60.369          7    
+Hair Extension Client.VATime                26.707     (Insuf)    21.551     33.644          7    
+Hair Extension Client.NVATime               .00000     (Insuf)    .00000     .00000          7    
+Hair Extension Client.WaitTime              5.7970     (Insuf)    .00000     32.686          7    
+Hair Extension Client.TranTime              4.0000     (Insuf)    4.0000     4.0000          7    
+Hair Extension Client.OtherTime             .00000     (Insuf)    .00000     .00000          7    
+Hair Extension Client.TotalTime             36.504     (Insuf)    25.551     63.221          7    
+Womens Haircut Client.VATime                21.217     (Insuf)    12.509     30.537         20    
+Womens Haircut Client.NVATime               .00000     (Insuf)    .00000     .00000         20    
+Womens Haircut Client.WaitTime              31.990     (Insuf)    .00000     78.892         20    
+Womens Haircut Client.TranTime              4.0000     (Insuf)    4.0000     4.0000         20    
+Womens Haircut Client.OtherTime             .00000     (Insuf)    .00000     .00000         20    
+Womens Haircut Client.TotalTime             57.208     (Insuf)    20.789     95.401         20    
+Clients.VATime                                  --         --         --         --          0
+Clients.NVATime                                 --         --         --         --          0
+Clients.WaitTime                                --         --         --         --          0
+Clients.TranTime                                --         --         --         --          0
+Clients.OtherTime                               --         --         --         --          0
+Clients.TotalTime                               --         --         --         --          0
+Hair Coloring Process.Queue.WaitingTime     2.3855     (Insuf)    .00000     16.698          7    
+Check In Process Time.Queue.WaitingTime     .04356     (Insuf)    .00000     .73774         50    
+Hair Washing Process.Queue.WaitingTime      .00000     (Insuf)    .00000     .00000          7    
+Womens Haircut Process.Queue.WaitingTime    31.954     (Insuf)    .00000     78.892         20    
+Mens Haircut Process.Queue.WaitingTime      6.0337     (Insuf)    .00000     25.376         16    
+Hair Extension Process.Queue.WaitingTime    5.6949     (Insuf)    .00000     32.145          7    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Mens Haircut Client.WIP                     .83869     (Insuf)    .00000     3.0000     .00000    
+Hair Coloring Client.WIP                    .55694     (Insuf)    .00000     2.0000     .00000    
+Hair Extension Client.WIP                   .50104     (Insuf)    .00000     2.0000     .00000    
+Womens Haircut Client.WIP                   2.2434     (Insuf)    .00000     5.0000     .00000    
+Clients.WIP                                 .00000     (Insuf)    .00000     1.0000     .00000    
+Haircoloring Stylist.NumberBusy             .28663     (Insuf)    .00000     1.0000     .00000    
+Haircoloring Stylist.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Haircoloring Stylist.Utilization            .28663     (Insuf)    .00000     1.0000     .00000    
+Hair Extension Stylist.NumberBusy           .35359     (Insuf)    .00000     1.0000     .00000    
+Hair Extension Stylist.NumberScheduled      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Hair Extension Stylist.Utilization          .35359     (Insuf)    .00000     1.0000     .00000    
+Check In Time.NumberBusy                    .09851     (Insuf)    .00000     1.0000     .00000    
+Check In Time.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Check In Time.Utilization                   .09851     (Insuf)    .00000     1.0000     .00000    
+Womens Hair Stylist.NumberBusy              .79083     (Insuf)    .00000     1.0000     .00000    
+Womens Hair Stylist.NumberScheduled         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Womens Hair Stylist.Utilization             .79083     (Insuf)    .00000     1.0000     .00000    
+Hairwashing Stylist.NumberBusy              .14137     (Insuf)    .00000     1.0000     .00000    
+Hairwashing Stylist.NumberScheduled         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Hairwashing Stylist.Utilization             .14137     (Insuf)    .00000     1.0000     .00000    
+Mens Hair Stylist.NumberBusy                .49203     (Insuf)    .00000     1.0000     .00000    
+Mens Hair Stylist.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mens Hair Stylist.Utilization               .49203     (Insuf)    .00000     1.0000     .00000    
+Hair Coloring Process.Queue.NumberInQueue   .03274     (Insuf)    .00000     1.0000     .00000    
+Check In Process Time.Queue.NumberInQueue   .00427     (Insuf)    .00000     1.0000     .00000    
+Hair Washing Process.Queue.NumberInQueue    .00000     (Insuf)    .00000     .00000     .00000    
+Womens Haircut Process.Queue.NumberInQueue  1.2531     (Insuf)    .00000     4.0000     .00000    
+Mens Haircut Process.Queue.NumberInQueue    .18930     (Insuf)    .00000     2.0000     .00000    
+Hair Extension Process.Queue.NumberInQueue  .07817     (Insuf)    .00000     1.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Mens Haircut Client.NumberIn                16.000    
+Mens Haircut Client.NumberOut               16.000    
+Hair Coloring Client.NumberIn               7.0000    
+Hair Coloring Client.NumberOut              7.0000    
+Hair Extension Client.NumberIn              7.0000    
+Hair Extension Client.NumberOut             7.0000    
+Womens Haircut Client.NumberIn              20.000    
+Womens Haircut Client.NumberOut             20.000    
+Clients.NumberIn                            50.000    
+Clients.NumberOut                           50.000    
+Haircoloring Stylist.NumberSeized           7.0000    
+Haircoloring Stylist.ScheduledUtilization   .28663    
+Hair Extension Stylist.NumberSeized         7.0000    
+Hair Extension Stylist.ScheduledUtilizatio  .35359    
+Check In Time.NumberSeized                  50.000    
+Check In Time.ScheduledUtilization          .09851    
+Womens Hair Stylist.NumberSeized            20.000    
+Womens Hair Stylist.ScheduledUtilization    .79083    
+Hairwashing Stylist.NumberSeized            7.0000    
+Hairwashing Stylist.ScheduledUtilization    .14137    
+Mens Hair Stylist.NumberSeized              16.000    
+Mens Hair Stylist.ScheduledUtilization      .49203    
+System.NumberOut                            50.000    
+
+
+Simulation run time: 0.00 minutes.
+Simulation run complete.
